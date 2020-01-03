@@ -1,0 +1,28 @@
+﻿  StageTool.cpp
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(272,24): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(281,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(285,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(288,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(291,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(294,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(297,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(300,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(303,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(188,15): warning C4101:  'ofn' :참조되지 않은 지역 변수입니다.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(514,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(555,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(583,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+F:\WinAPI\StageTool\StageTool\StageTool.cpp(601,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  'sprintf' 선언을 참조하십시오.
+  StageTool.vcxproj -> F:\WinAPI\StageTool\Debug\StageTool.exe
